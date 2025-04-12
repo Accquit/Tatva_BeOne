@@ -27,15 +27,15 @@ const ParentPortal = () => {
   ];
   
   const upcomingEvents = [
-    { id: 1, title: 'Parent-Teacher Meeting', date: 'April 18, 2025', time: '3:30 PM', location: 'Room 201' },
-    { id: 2, title: 'Science Fair', date: 'April 25, 2025', time: '10:00 AM', location: 'School Auditorium' },
+    { id: 1, title: 'Yoga Meetup', date: 'April 18, 2025', time: '3:30 PM', location: 'Room 201' },
+    { id: 2, title: 'QNA', date: 'April 25, 2025', time: '10:00 AM', location: 'Auditorium' },
     { id: 3, title: 'End of Term Assessments', date: 'May 10-14, 2025', time: 'All Day', location: 'Various Classrooms' },
   ];
   
   const recentGrades = [
-    { id: 1, subject: 'Mathematics', assignment: 'Algebra Quiz', grade: 'A-', date: 'Apr 8, 2025' },
-    { id: 2, subject: 'Science', assignment: 'Lab Report', grade: 'B+', date: 'Apr 5, 2025' },
-    { id: 3, subject: 'English', assignment: 'Essay', grade: 'A', date: 'Apr 3, 2025' },
+    { id: 1, subject: 'Yin Yoga', assignment: 'Breathing Exercise', grade: 'A-', date: 'Apr 8, 2025' },
+    { id: 2, subject: 'Ashthanga Yoga', assignment: 'Flexibility Test', grade: 'B+', date: 'Apr 5, 2025' },
+    { id: 3, subject: 'Restorative Yoga', assignment: 'Stretching', grade: 'A', date: 'Apr 3, 2025' },
   ];
   
   return (
